@@ -2,7 +2,7 @@ import { useState } from 'react'
 import Welcome from './pages/Welcome.jsx';
 import './App.css'
 
-function App() {
+function FocusFuel() {
 
   return (
     <>
@@ -11,4 +11,4 @@ function App() {
   )
 }
 
-export default App
+export default FocusFuel
